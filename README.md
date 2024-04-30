@@ -13,7 +13,7 @@ This project focuses on the following key areas of data engineering:
 | Stage               | Description                                                                                      |
 |--------------------- |--------------------------------------------------------------------------------------------------|
 | Data Extraction      | Raw data collection from various sources such as databases, APIs, or files.                       |
-| Data Transformation  | Cleaning, aggregating, and enriching the data to make it suitable for analysis.                   |
+| Data Transformation  | Formatting, Cleaning, aggregating, and enriching the data to make it suitable for analysis.                   |
 | Data Loading         | Loading the transformed data into a destination for efficient access and analysis.               |
 
 By effectively managing these three stages of the data engineering process, this project aims to build a robust data pipeline that ensures the availability of high-quality data for analysis and decision-making.
